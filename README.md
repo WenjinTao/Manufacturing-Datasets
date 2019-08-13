@@ -1,2 +1,11 @@
-# manufacturing_datasets
-A collection of all public manufacturing datasets
+# Manufacturing-Datasets
+A collection of all public manufacturing datasets. 
+
+## Defect Detection
+[Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection) 
+
+
+## Prognostics
+
+
+## Others
