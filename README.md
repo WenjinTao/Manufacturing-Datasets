@@ -7,6 +7,9 @@ A collection of all public manufacturing datasets.
 
 ## Prognostics
 
+## Product Quality Prediction
+[Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance)
+
 ## Worker Activity
 
 ## Others
