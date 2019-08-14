@@ -6,6 +6,7 @@ A collection of all public manufacturing datasets.
 
 
 ## Prognostics
+[FEMTO Bearing Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#femto)
 
 ## Product Quality Prediction
 [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance)
